@@ -6,11 +6,11 @@ This project compares two models on this data: a Logistic Regression, and a Rand
 
 # Data Processing
 
-Load data
-Scale data
-Split data
-Train models(Logistic Regression & RandomForestClassifier)
-Output classification_report(check accuracy rate)
+1) Load data
+2) Scale data
+3) Split data
+4) Train models(Logistic Regression & RandomForestClassifier)
+5) Output classification_report(check accuracy rate)
 
 # Instructions:
 
