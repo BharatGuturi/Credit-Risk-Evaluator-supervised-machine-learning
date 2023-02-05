@@ -1,4 +1,4 @@
-# supervised-machine-learning-challenge
+# Loan Approval - Supervised Machine Learning
 
 Lending services companies allow individual investors to partially fund personal loans as well as buy and sell notes backing the loans on a secondary market.
 This project creates machine learning models to classify the risk level of given loans. 
