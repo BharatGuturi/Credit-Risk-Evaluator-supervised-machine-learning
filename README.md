@@ -16,7 +16,7 @@ This project compares two models on this data: a Logistic Regression, and a Rand
 
 To run this repo, execute the following commands:
 
-  1) Git clone https:https://github.com/BharatGuturi/supervised-machine-learning-challenge.git
+  1) Git clone https://github.com/BharatGuturi/Loan-approval-supervised-machine-learning.git
   2) Execute the jupyter notebook "Credit Risk Evaluator" to run the models.
   
  # Summary
