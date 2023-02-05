@@ -1,4 +1,4 @@
-# Loan Approval - Supervised Machine Learning
+# Credit Risk Evaluator - Supervised Machine Learning
 
 Lending services companies allow individual investors to partially fund personal loans as well as buy and sell notes backing the loans on a secondary market.
 This project creates machine learning models to classify the risk level of given loans. 
@@ -16,7 +16,7 @@ This project compares two models on this data: a Logistic Regression, and a Rand
 
 To run this repo, execute the following commands:
 
-  1) Git clone https://github.com/BharatGuturi/Loan-approval-supervised-machine-learning.git
+  1) Git clone https://github.com/BharatGuturi/Credit-Risk-Evaluator-supervised-machine-learning.git
   2) Execute the jupyter notebook "Credit Risk Evaluator" to run the models.
   
  # Summary
